@@ -33,7 +33,28 @@
       <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%207.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%203-crop-u645.png</image:loc>
+      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%2052.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%2051.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%20522.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%2053.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project.com/images/%D1%81%D0%BB%D0%BE%D0%B9%2056.png</image:loc>
     </image:image>
   </url>
 </urlset>
