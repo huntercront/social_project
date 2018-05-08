@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1525757596389">
+  <folder name="css">
+    <file name="site_global.css" crc="45657671"/>
+    <file name="index.css" crc="4001285460" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="neosanspro-regular.woff" crc="3790675358"/>
+    <file name="neosanspro-regular.eot" crc="4028801927"/>
+    <file name="neosanspro-ultra.woff" crc="4074966185"/>
+    <file name="neosanspro-ultra.eot" crc="4076460749"/>
+    <file name="oswald-light.woff" crc="366219152"/>
+    <file name="oswald-light.eot" crc="326351217"/>
+    <file name="neosanspro-bold.woff" crc="4242672527"/>
+    <file name="neosanspro-bold.eot" crc="181385637"/>
+    <file name="oswald-medium.woff" crc="533330915"/>
+    <file name="oswald-medium.eot" crc="4294643928"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="слой 6.jpg" crc="4053881891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эллипс 1.png" crc="195776718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 62.jpg" crc="157693628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about project.png" crc="264058759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="о проекте.png" crc="3871559875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 5.png" crc="4199672326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone-light-2.png" crc="3801461618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone-light-22.png" crc="81504023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 7.jpg" crc="3893555524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 3-crop-u645.png" crc="3999805931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4098791710" seo="true" mt="1525757463759" redirect="true"/>
+</manifest>
