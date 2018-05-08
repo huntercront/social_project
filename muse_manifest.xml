@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1525757596389">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1525789197918">
   <folder name="css">
     <file name="site_global.css" crc="45657671"/>
-    <file name="index.css" crc="4001285460" ref="index"/>
+    <file name="index.css" crc="456293422" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="neosanspro-regular.woff" crc="3790675358"/>
@@ -26,11 +26,14 @@
   <folder name="images">
     <file name="слой 6.jpg" crc="4053881891" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="эллипс 1.png" crc="195776718" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="слой 62.jpg" crc="157693628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="about project.png" crc="264058759" seo="true" ref="index">
@@ -53,9 +56,30 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 3-crop-u645.png" crc="3999805931" seo="true" ref="index">
+    <file name="слой 3.png" crc="3990497875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 4.png" crc="4148674928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="группа 12.png" crc="3977430060" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 52.png" crc="239209671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 51.png" crc="4115644744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 522.png" crc="3936772115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 53.png" crc="485000948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 56.png" crc="4250600406" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4098791710" seo="true" mt="1525757463759" redirect="true"/>
+  <file name="index.html" crc="443118615" seo="true" mt="1525789108142" redirect="true"/>
 </manifest>
