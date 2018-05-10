@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project.com" resolutions="1x" timestamp="1525789197918">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1525976362226">
   <folder name="css">
-    <file name="site_global.css" crc="45657671"/>
-    <file name="index.css" crc="456293422" ref="index"/>
+    <file name="site_global.css" crc="4190630540"/>
+    <file name="index.css" crc="4081630642" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="neosanspro-regular.woff" crc="3790675358"/>
-    <file name="neosanspro-regular.eot" crc="4028801927"/>
+    <file name="neosanspro-medium.woff" crc="8333313"/>
+    <file name="neosanspro-medium.eot" crc="88601906"/>
+    <file name="neosanspro-italic.woff" crc="388558621"/>
+    <file name="neosanspro-italic.eot" crc="3980338632"/>
     <file name="neosanspro-ultra.woff" crc="4074966185"/>
     <file name="neosanspro-ultra.eot" crc="4076460749"/>
-    <file name="oswald-light.woff" crc="366219152"/>
-    <file name="oswald-light.eot" crc="326351217"/>
+    <file name="neosanspro-regular.woff" crc="3790675358"/>
+    <file name="neosanspro-regular.eot" crc="4028801927"/>
     <file name="neosanspro-bold.woff" crc="4242672527"/>
     <file name="neosanspro-bold.eot" crc="181385637"/>
-    <file name="oswald-medium.woff" crc="533330915"/>
-    <file name="oswald-medium.eot" crc="4294643928"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -21,65 +21,131 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="слой 6.jpg" crc="4053881891" seo="true" ref="index">
+    <file name="blog_2.png" crc="3939878897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_3.png" crc="208663832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_b1.png" crc="86075609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_b2.png" crc="58837771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_b3.png" crc="24191696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_slider_2.png" crc="3831289058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_slider_3.png" crc="4198245905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog2c_1.png" crc="458891993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_slider_1.png" crc="264713697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog2c_2.png" crc="3920788485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog2c_3.png" crc="4095796372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blog_1.png" crc="4268960472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 2.png" crc="96409880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 8.png" crc="4159024872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ролевая модель.png" crc="3910326034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="слой 9.png" crc="282374838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 11.png" crc="374379849" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 12.png" crc="533796813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="слой-8.svg" crc="415592496" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="эллипс 1.png" crc="195776718" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="слой 62.jpg" crc="157693628" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 8_poster_.png" crc="4174116075" ref="index"/>
+    <file name="слой-3.svg" crc="3871842956" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="about project.png" crc="264058759" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="о проекте.png" crc="3871559875" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="слой 5.png" crc="4199672326" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="iphone-light-2.png" crc="3801461618" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="iphone-light-22.png" crc="81504023" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="слой 7.jpg" crc="3893555524" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 3_poster_.png" crc="431918616" ref="index"/>
+    <file name="слой-6.svg" crc="4262436251" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 3.png" crc="3990497875" seo="true" ref="index">
+    <file name="слой 6_poster_.png" crc="426223938" ref="index"/>
+    <file name="слой-4.svg" crc="258481113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 4.png" crc="4148674928" seo="true" ref="index">
+    <file name="слой 4_poster_.png" crc="4188434306" ref="index"/>
+    <file name="слой-9.svg" crc="360809041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="группа 12.png" crc="3977430060" seo="true" ref="index">
+    <file name="слой 9_poster_.png" crc="3941951850" ref="index"/>
+    <file name="слой-7.svg" crc="219161159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 52.png" crc="239209671" seo="true" ref="index">
+    <file name="слой 7_poster_.png" crc="3827464984" ref="index"/>
+    <file name="слой-5.svg" crc="50006297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 51.png" crc="4115644744" seo="true" ref="index">
+    <file name="слой 5_poster_.png" crc="449186454" ref="index"/>
+    <file name="запись_2018_05_10_13_44_45_31_1.gif" crc="3982315399" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 522.png" crc="3936772115" seo="true" ref="index">
+    <file name="слой 13.png" crc="118812760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 53.png" crc="485000948" seo="true" ref="index">
+    <file name="heart.png" crc="3819388584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 56.png" crc="4250600406" seo="true" ref="index">
+    <file name="heartbl.png" crc="326870569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="запись_2018_05_10_13_44_45_31_4.gif" crc="3806320357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perspective-app-screens-mock-up.jpg" crc="3992133948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="запись_2018_05_10_13_44_45_31_7.gif" crc="295930135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без-имени-2.jpg" crc="210371212" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="443118615" seo="true" mt="1525789108142" redirect="true"/>
+  <file name="index.html" crc="3975192876" seo="true" mt="1525976281001" redirect="true"/>
 </manifest>
