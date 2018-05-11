@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526032409719">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526036425701">
   <folder name="css">
     <file name="site_global.css" crc="4190630540"/>
-    <file name="index.css" crc="188633417" ref="index"/>
+    <file name="index.css" crc="419365957" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="neosanspro-medium.woff" crc="8333313"/>
@@ -146,5 +146,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="448522492" seo="true" mt="1526032365209" redirect="true"/>
+  <file name="index.html" crc="250697858" seo="true" mt="1526036326421" redirect="true"/>
 </manifest>
