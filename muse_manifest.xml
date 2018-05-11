@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526028955519">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526032409719">
   <folder name="css">
     <file name="site_global.css" crc="4190630540"/>
     <file name="index.css" crc="188633417" ref="index"/>
@@ -142,9 +142,9 @@
     <file name="github.png" crc="103072348" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="s.png" crc="4175435207" seo="true" ref="index">
+    <file name="s.png" crc="4120520533" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="40285694" seo="true" mt="1526028950127" redirect="true"/>
+  <file name="index.html" crc="448522492" seo="true" mt="1526032365209" redirect="true"/>
 </manifest>
