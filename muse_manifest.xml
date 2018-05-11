@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1525976362226">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526028955519">
   <folder name="css">
     <file name="site_global.css" crc="4190630540"/>
-    <file name="index.css" crc="4081630642" ref="index"/>
+    <file name="index.css" crc="188633417" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="neosanspro-medium.woff" crc="8333313"/>
@@ -85,53 +85,33 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="слой-8.svg" crc="415592496" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="слой 8_poster_.png" crc="4174116075" ref="index"/>
-    <file name="слой-3.svg" crc="3871842956" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 8_poster_.png" crc="165153164" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 3_poster_.png" crc="431918616" ref="index"/>
-    <file name="слой-6.svg" crc="4262436251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 3_poster_.png" crc="4101172778" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 6_poster_.png" crc="426223938" ref="index"/>
-    <file name="слой-4.svg" crc="258481113" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 6_poster_.png" crc="326380518" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 4_poster_.png" crc="4188434306" ref="index"/>
-    <file name="слой-9.svg" crc="360809041" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 4_poster_.png" crc="4243204149" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 9_poster_.png" crc="3941951850" ref="index"/>
-    <file name="слой-7.svg" crc="219161159" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 9_poster_.png" crc="401047612" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 7_poster_.png" crc="3827464984" ref="index"/>
-    <file name="слой-5.svg" crc="50006297" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="слой 7_poster_.png" crc="3908646393" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="слой 5_poster_.png" crc="449186454" ref="index"/>
+    <file name="слой 5_poster_.png" crc="517407359" ref="index" seo="true">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="запись_2018_05_10_13_44_45_31_1.gif" crc="3982315399" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="слой 13.png" crc="118812760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="heart.png" crc="3819388584" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="heartbl.png" crc="326870569" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="запись_2018_05_10_13_44_45_31_4.gif" crc="3806320357" seo="true" ref="index">
@@ -146,6 +126,25 @@
     <file name="без-имени-2.jpg" crc="210371212" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="социальная-сеть-favicon.ico" crc="3891295769" ref="index"/>
+    <file name="слой 6.png" crc="3967544657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="группа 2 копия.png" crc="265293974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk.png" crc="47144920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="globe.png" crc="4154121802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github.png" crc="103072348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s.png" crc="4175435207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3975192876" seo="true" mt="1525976281001" redirect="true"/>
+  <file name="index.html" crc="40285694" seo="true" mt="1526028950127" redirect="true"/>
 </manifest>
