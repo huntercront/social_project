@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526134178045">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526155273896">
   <folder name="css">
     <file name="site_global.css" crc="4190630540"/>
-    <file name="index.css" crc="325715980" ref="index"/>
-    <file name="__________-____________.css" crc="4172895573" ref="инструкция-пользователя"/>
+    <file name="index.css" crc="4027523022" ref="index"/>
+    <file name="__________-____________.css" crc="4160234890" ref="инструкция-пользователя"/>
   </folder>
   <folder name="fonts">
     <file name="neosanspro-medium.woff" crc="8333313"/>
@@ -142,9 +142,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="социальная-сеть-favicon.ico" crc="3891295769" ref="index"/>
-    <file name="слой 6.png" crc="3967544657" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="группа 2 копия.png" crc="265293974" seo="true" ref="index:инструкция-пользователя">
       <caption webpage="index" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
@@ -169,10 +166,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="инструкция-пользователя-favicon.ico" crc="3891295769" ref="инструкция-пользователя"/>
-    <file name="слой 3.png" crc="414975527" seo="true" ref="инструкция-пользователя">
-      <caption webpage="инструкция-пользователя" alt=""/>
-      <caption webpage="инструкция-пользователя" alt=""/>
-    </file>
     <file name="группа 1 (объединенное).png" crc="359588018" seo="true" ref="инструкция-пользователя">
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
@@ -182,26 +175,31 @@
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 4.png" crc="400885394" seo="true" ref="инструкция-пользователя">
-      <caption webpage="инструкция-пользователя" alt=""/>
-    </file>
     <file name="группа 2.png" crc="3819083048" seo="true" ref="инструкция-пользователя">
       <caption webpage="инструкция-пользователя" alt=""/>
-      <caption webpage="инструкция-пользователя" alt=""/>
-    </file>
-    <file name="слой 5.png" crc="245305235" seo="true" ref="инструкция-пользователя">
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
     <file name="слой 62.png" crc="4193375771" seo="true" ref="инструкция-пользователя">
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 7.png" crc="436141539" seo="true" ref="инструкция-пользователя">
-      <caption webpage="инструкция-пользователя" alt=""/>
-    </file>
     <file name="слой 22222.png" crc="365912158" seo="true" ref="инструкция-пользователя">
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
+    <file name="sl3.png" crc="400885394" seo="true" ref="index:инструкция-пользователя">
+      <caption webpage="index" alt=""/>
+      <caption webpage="инструкция-пользователя" alt=""/>
+    </file>
+    <file name="sl2.png" crc="414975527" seo="true" ref="инструкция-пользователя">
+      <caption webpage="инструкция-пользователя" alt=""/>
+      <caption webpage="инструкция-пользователя" alt=""/>
+    </file>
+    <file name="sl4.png" crc="245305235" seo="true" ref="инструкция-пользователя">
+      <caption webpage="инструкция-пользователя" alt=""/>
+    </file>
+    <file name="слой 227.png" crc="436141539" seo="true" ref="инструкция-пользователя">
+      <caption webpage="инструкция-пользователя" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4056566385" seo="true" mt="1526134143218" redirect="true"/>
-  <file name="инструкция-пользователя.html" crc="110102055" seo="true" mt="1526133931341" redirect="true"/>
+  <file name="index.html" crc="4076174264" seo="true" mt="1526155045475" redirect="true"/>
+  <file name="инструкция-пользователя.html" crc="499389689" seo="true" mt="1526155232120" redirect="true"/>
 </manifest>
