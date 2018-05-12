@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526155273896">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526156018385">
   <folder name="css">
     <file name="site_global.css" crc="4190630540"/>
     <file name="index.css" crc="4027523022" ref="index"/>
-    <file name="__________-____________.css" crc="4160234890" ref="инструкция-пользователя"/>
+    <file name="usermanual.css" crc="125843935" ref="usermanual"/>
   </folder>
   <folder name="fonts">
     <file name="neosanspro-medium.woff" crc="8333313"/>
@@ -17,17 +17,17 @@
     <file name="neosanspro-bold.eot" crc="181385637"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:инструкция-пользователя"/>
-    <file name="museutils.js" crc="3803043152" ref="index:инструкция-пользователя"/>
-    <file name="whatinput.js" crc="86476730" ref="index:инструкция-пользователя"/>
-    <file name="museconfig.js" crc="380897831" ref="index:инструкция-пользователя"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:инструкция-пользователя"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usermanual"/>
+    <file name="museutils.js" crc="3803043152" ref="index:usermanual"/>
+    <file name="whatinput.js" crc="86476730" ref="index:usermanual"/>
+    <file name="museconfig.js" crc="380897831" ref="index:usermanual"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:usermanual"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:инструкция-пользователя"/>
-    <file name="require.js" crc="4157109226" ref="index:инструкция-пользователя"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:usermanual"/>
+    <file name="require.js" crc="4157109226" ref="index:usermanual"/>
   </folder>
   <folder name="images">
     <file name="blog_2.png" crc="3939878897" seo="true" ref="index">
@@ -86,39 +86,46 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="слой 8_poster_.png" crc="165153164" ref="index:инструкция-пользователя" seo="true">
+    <file name="слой 8_poster_.png" crc="165153164" ref="index:usermanual" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 3_poster_.png" crc="4101172778" ref="index:инструкция-пользователя" seo="true">
+    <file name="слой 3_poster_.png" crc="4101172778" ref="index:usermanual" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 6_poster_.png" crc="326380518" ref="index:инструкция-пользователя" seo="true">
+    <file name="слой 6_poster_.png" crc="326380518" ref="index:usermanual" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 4_poster_.png" crc="4243204149" ref="index:инструкция-пользователя" seo="true">
+    <file name="слой 4_poster_.png" crc="4243204149" ref="index:usermanual" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 9_poster_.png" crc="401047612" ref="index:инструкция-пользователя" seo="true">
+    <file name="слой 9_poster_.png" crc="401047612" ref="index:usermanual" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 7_poster_.png" crc="3908646393" ref="index:инструкция-пользователя" seo="true">
+    <file name="слой 7_poster_.png" crc="3908646393" ref="index:usermanual" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 5_poster_.png" crc="517407359" ref="index:инструкция-пользователя" seo="true">
+    <file name="слой 5_poster_.png" crc="517407359" ref="index:usermanual" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
     <file name="запись_2018_05_10_13_44_45_31_1.gif" crc="3982315399" seo="true" ref="index">
@@ -142,64 +149,83 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="социальная-сеть-favicon.ico" crc="3891295769" ref="index"/>
-    <file name="группа 2 копия.png" crc="265293974" seo="true" ref="index:инструкция-пользователя">
+    <file name="группа 2 копия.png" crc="265293974" seo="true" ref="index:usermanual">
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="vk.png" crc="47144920" seo="true" ref="index:инструкция-пользователя">
+    <file name="vk.png" crc="47144920" seo="true" ref="index:usermanual">
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="globe.png" crc="4154121802" seo="true" ref="index:инструкция-пользователя">
+    <file name="globe.png" crc="4154121802" seo="true" ref="index:usermanual">
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="github.png" crc="103072348" seo="true" ref="index:инструкция-пользователя">
+    <file name="github.png" crc="103072348" seo="true" ref="index:usermanual">
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="s.png" crc="4120520533" seo="true" ref="index:инструкция-пользователя">
+    <file name="s.png" crc="4120520533" seo="true" ref="index:usermanual">
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
     <file name="слой 22.png" crc="274937125" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="инструкция-пользователя-favicon.ico" crc="3891295769" ref="инструкция-пользователя"/>
-    <file name="группа 1 (объединенное).png" crc="359588018" seo="true" ref="инструкция-пользователя">
+    <file name="группа 1 (объединенное).png" crc="359588018" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="группа 1 (объединенное)2.png" crc="284609581" seo="true" ref="инструкция-пользователя">
+    <file name="группа 1 (объединенное)2.png" crc="284609581" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+      <caption webpage="usermanual" alt=""/>
+      <caption webpage="usermanual" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="группа 2.png" crc="3819083048" seo="true" ref="инструкция-пользователя">
+    <file name="группа 2.png" crc="3819083048" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 62.png" crc="4193375771" seo="true" ref="инструкция-пользователя">
+    <file name="слой 62.png" crc="4193375771" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 22222.png" crc="365912158" seo="true" ref="инструкция-пользователя">
+    <file name="слой 22222.png" crc="365912158" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="sl3.png" crc="400885394" seo="true" ref="index:инструкция-пользователя">
+    <file name="sl3.png" crc="400885394" seo="true" ref="index:usermanual">
       <caption webpage="index" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="sl2.png" crc="414975527" seo="true" ref="инструкция-пользователя">
+    <file name="sl2.png" crc="414975527" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="sl4.png" crc="245305235" seo="true" ref="инструкция-пользователя">
+    <file name="sl4.png" crc="245305235" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
-    <file name="слой 227.png" crc="436141539" seo="true" ref="инструкция-пользователя">
+    <file name="слой 227.png" crc="436141539" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
+    <file name="usermanual-favicon.ico" crc="3891295769" ref="usermanual"/>
   </folder>
-  <file name="index.html" crc="4076174264" seo="true" mt="1526155045475" redirect="true"/>
-  <file name="инструкция-пользователя.html" crc="499389689" seo="true" mt="1526155232120" redirect="true"/>
+  <file name="index.html" crc="285462602" seo="true" mt="1526155984756" redirect="true"/>
+  <file name="usermanual.html" crc="4129491390" seo="true" mt="1526155984757" redirect="true"/>
 </manifest>
