@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526321553853">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526323702784">
   <folder name="css">
     <file name="site_global.css" crc="4190630540"/>
     <file name="index.css" crc="386776948" ref="index"/>
-    <file name="usermanual.css" crc="18108427" ref="usermanual"/>
+    <file name="usermanual.css" crc="408800094" ref="usermanual"/>
   </folder>
   <folder name="fonts">
     <file name="neosanspro-medium.woff" crc="8333313"/>
@@ -243,7 +243,10 @@
     <file name="слой 12dop.png" crc="72816651" seo="true" ref="usermanual">
       <caption webpage="usermanual" alt=""/>
     </file>
+    <file name="слой 1.jpg" crc="155464053" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4100090308" seo="true" mt="1526273870006" redirect="true"/>
-  <file name="usermanual.html" crc="4258280321" seo="true" mt="1526321459034" redirect="true"/>
+  <file name="usermanual.html" crc="4049316428" seo="true" mt="1526322941866" redirect="true"/>
 </manifest>

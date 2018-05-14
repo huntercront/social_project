@@ -203,5 +203,8 @@
     <image:image>
       <image:loc>http://SA.com/images/%D1%81%D0%BB%D0%BE%D0%B9%2012dop.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SA.com/images/%D1%81%D0%BB%D0%BE%D0%B9%201.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
