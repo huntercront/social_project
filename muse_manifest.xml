@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526156018385">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SA.com" resolutions="1x" timestamp="1526321553853">
   <folder name="css">
     <file name="site_global.css" crc="4190630540"/>
-    <file name="index.css" crc="4027523022" ref="index"/>
-    <file name="usermanual.css" crc="125843935" ref="usermanual"/>
+    <file name="index.css" crc="386776948" ref="index"/>
+    <file name="usermanual.css" crc="18108427" ref="usermanual"/>
   </folder>
   <folder name="fonts">
     <file name="neosanspro-medium.woff" crc="8333313"/>
@@ -186,6 +186,7 @@
       <caption webpage="usermanual" alt=""/>
       <caption webpage="usermanual" alt=""/>
       <caption webpage="usermanual" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
@@ -213,10 +214,12 @@
     <file name="sl2.png" crc="414975527" seo="true" ref="usermanual">
       <caption webpage="usermanual" alt=""/>
       <caption webpage="usermanual" alt=""/>
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
     <file name="sl4.png" crc="245305235" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
       <caption webpage="usermanual" alt=""/>
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
@@ -225,7 +228,22 @@
       <caption webpage="инструкция-пользователя" alt=""/>
     </file>
     <file name="usermanual-favicon.ico" crc="3891295769" ref="usermanual"/>
+    <file name="слой 8dop.png" crc="286128150" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+    </file>
+    <file name="слой 9dop.png" crc="294896001" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+    </file>
+    <file name="слой 10dop.png" crc="508567324" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+    </file>
+    <file name="слой 11dop.png" crc="152309423" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+    </file>
+    <file name="слой 12dop.png" crc="72816651" seo="true" ref="usermanual">
+      <caption webpage="usermanual" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="285462602" seo="true" mt="1526155984756" redirect="true"/>
-  <file name="usermanual.html" crc="4129491390" seo="true" mt="1526155984757" redirect="true"/>
+  <file name="index.html" crc="4100090308" seo="true" mt="1526273870006" redirect="true"/>
+  <file name="usermanual.html" crc="4258280321" seo="true" mt="1526321459034" redirect="true"/>
 </manifest>
